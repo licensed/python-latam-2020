@@ -1,9 +1,5 @@
-<<<<<<< HEAD
 Jeremias
 jeremiasprogrammer@gmail.com
 
 Adammo Ranyer
 adammoranyer@gmail.com
-=======
-ola mundo
->>>>>>> parent of dac2ca2... primeiro commit
